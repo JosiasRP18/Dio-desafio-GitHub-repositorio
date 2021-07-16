@@ -1,0 +1,1 @@
+Trata-se apenas de um demostrativo para a criação e os passos basicos do git
